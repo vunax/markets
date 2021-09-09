@@ -1,5 +1,7 @@
 {
     "markets" : [
+        {"address": "6V6y6QFi17QZC9qNRpVp7SaPiHpCTp2skbRQkUyZZXPW",
+         "name": "CYS/USDC"},
       {"address": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
         "name": "SUNNY/USDC"},
       {"address": "Di66GTLsV64JgCCYGVcY21RZ173BHkjJVgPyezNN7P1K",
