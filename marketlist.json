@@ -1,5 +1,7 @@
 {
     "markets" : [
+        {"address": "H7ZmXKqEx1T8CTM4EMyqR5zyz4e4vUpWTTbCmYmzxmeW",
+         "name": "PRT/SOL"},
         {"address": "6V6y6QFi17QZC9qNRpVp7SaPiHpCTp2skbRQkUyZZXPW",
          "name": "CYS/USDC"},
       {"address": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
