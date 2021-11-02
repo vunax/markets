@@ -1,7 +1,25 @@
 {
     "markets" : [
-        {"address": "CsNZMtypiGgxm6JrmYVJWnLnJNsERrmT3mQqujLsGZj",
-        "name":"PRT/USDC"},
+        {
+        "address":"DE6EjZoMrC5a3Pbdk8eCMGEY9deeeHECuGFmEuUpXWZm",
+        "name":"LARIX/USDC"
+      },
+      {
+        "address":"2wgi2FabNsSDdb8dke9mHFB67QtMYjYa318HpSqyJLDD",
+        "name":"GOFX/USDC"
+      },
+      {
+        "address":"BHqcTEDhCoZgvXcsSbwnTuzPdxv1HPs6Kz4AnPpNrGuq",
+        "name":"WAG/USDC"
+      },
+      {
+        "address":"DNxn3qM61GZddidjrzc95398SCWhm5BUyt8Y8SdKYr8W",
+        "name":"ALM/USDC"
+      },
+      {"address": "72aW3Sgp1hMTXUiCq8aJ39DX2Jr7sZgumAvdLrLuCMLe",
+        "name":"GRAPE/USDC"},
+      {"address": "2cVCrE5G45ZetnfXyK4qCUtmuJRAEk58eMVpUtkBPT9s",
+        "name":"MDF/USDC"},
         {"address": "H7ZmXKqEx1T8CTM4EMyqR5zyz4e4vUpWTTbCmYmzxmeW",
          "name": "PRT/SOL"},
         {"address": "6V6y6QFi17QZC9qNRpVp7SaPiHpCTp2skbRQkUyZZXPW",
