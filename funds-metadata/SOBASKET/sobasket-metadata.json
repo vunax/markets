@@ -1,0 +1,7 @@
+{
+    "name": "Ecosystem Basket - Solana",
+    "symbol": "SOBASKET",
+    "description": "Vault token containing Solana ecosystem tokens. Powered by Symmetry Engine.",
+    "image": "https://raw.githubusercontent.com/symmetry-protocol/markets/master/funds-metadata/SOBASKET/SOBASKET.png",
+    "external_url": "https://app.symmetry.fi"
+}
