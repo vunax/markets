@@ -1,7 +1,7 @@
 {
-    "name": "Solana LSD",
-    "symbol": "ySOL",
-    "description": "A yield bearing fund token containing popular Solana liquid staked tokens (LSTs). Powered by Symmetry Engine.",
-    "image": "https://raw.githubusercontent.com/symmetry-protocol/markets/master/ySOL.png",
-    "external_url": "https://app.symmetry.fi"
+    "name": "legend raccoon",
+    "symbol": "RACC",
+    "description": "Realms Basket",
+    "image": "https://raw.githubusercontent.com/solana-labs/governance-ui/main/public/img/logo-realms.png",
+    "external_url": "https://realms.today/"
 }
